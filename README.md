@@ -1,6 +1,6 @@
 # Portfólio com descrição dos projetos desenvolvidos durante minha formação e trajetória profissional
 
-## Graduação - Curso: Sistemas de Informação - Instituição: Universidade Anhanguera Unopar 
+## Curso: Sistemas de Informação - Instituição: Universidade Anhanguera Unopar 
 
 ---
 
@@ -39,7 +39,7 @@ e utilização da plataforma online Playcode para realização de testes e rotin
 - **Palavras-chave:** javascript, formulários, html, validação de dados, playcode
 - **Demonstração:** 
 
- 
+  ![](imagens/2_formulario.png)
   
 ---
 
@@ -52,6 +52,7 @@ e utilização da plataforma online Playcode para realização de testes e rotin
 - **Palavras-chave:** MySQL, workbench, dados, modelagem de dados, DER, diagrama, SGBD
 - **Demonstração:**
 
+  ![](imagens/3_DER.png)
   
 ---
 
@@ -64,7 +65,8 @@ um diagrama entidade-relacionamento pré-definido, inserção de dados nas tabel
 - **Palavras-chave:** MySQL, workbench, banco de dados, DER, SGBD
 - **Demonstração:**
   
-
+  ![](imagens/4_insert_dados_tb.png)
+  
 ---
 
 ### 5. Projeto da disciplina Sistemas Operacionais
@@ -75,7 +77,8 @@ comandos Linux com sistema operacional GNU/Linux Ubuntu e criação estrutura de
 - **Palavras-chave:** Linux, virtualbox, ubuntu, open source
 - **Demonstração:**
 
- 
+  ![](imagens/5_so_comandos.png)
+  
 --- 
 
 ### 6. Projeto da disciplina Algoritmos e Estrutura de Dados
@@ -86,7 +89,7 @@ de gols e informando ao usuário uma mensagem sobre os resultados
 - **Palavras-chave:** algoritmo, portugol, visualg, estrutura de dados, laços de repetição
 - **Demonstração:**
 
- 
+  ![](imagens/6_algoritmo_futebol.png)
 
 ---
 
@@ -98,7 +101,7 @@ com o auxílio da versão online do Visual Paradigm
 - **Palavras-chave:** casos de uso, UML, Visual Paradigm, modelagem de sistemas
 - **Demonstração:**
 
-
+  ![](imagens/7_uml_sist_bancario.png)
 
 ---  
 
