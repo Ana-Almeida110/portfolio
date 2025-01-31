@@ -25,8 +25,10 @@ programação utilizando a ferramenta VisualG.
 - **Palavras-chave:** portugol, algoritmo, programacao estruturada
 - **Demonstração:**
  
- 
-
+  ![](imagens/1_algoritmo_idade.png)
+  
+  ![](imagens/1_algoritmo_potencia.png)
+  
 ---
 
 ### 2. Projeto da disciplina Desenvolvimento em JavaScript
@@ -37,6 +39,7 @@ e utilização da plataforma online Playcode para realização de testes e rotin
 - **Palavras-chave:** javascript, formulários, html, validação de dados, playcode
 - **Demonstração:** 
 
+ 
   
 ---
 
