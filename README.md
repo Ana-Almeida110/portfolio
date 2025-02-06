@@ -105,6 +105,23 @@ com o auxílio da versão online do Visual Paradigm
 
 ---  
 
+### 8. Projeto da disciplina Programação para Internet em Back-End
+**Descrição:** Criação de uma pequena aplicação com um formulário para cadastro de nome, e-mail e senha 
+do usuário utilizando a linguagem PHP para gravação, conexão e cadastro no banco de dados MySQL utilizando
+o XAMPP como servidor.
+
+- **Tecnologias:** XAMPP, MySQL, linguagem PHP
+- **Palavras-chave:** backend, banco de dados, mysql, xampp, apache, php
+- **Demonstração:**
+
+  ![](imagens/8_backend_xampp.png)
+
+  ![](imagens/8_backend_formulario.png)
+
+  ![](imagens/8_backend_teste.png)
+
+---
+
 ### Contato
 - **E-mail:** [coiadoalmeida@gmail.com](mailto:coiadoalmeida@gmail.com)
 - **Linkedin:** [https://www.linkedin.com/in/ana-paula-de-almeida-coiado/](https://www.linkedin.com/in/ana-paula-de-almeida-coiado/)
