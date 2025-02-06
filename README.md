@@ -1,4 +1,4 @@
-# Portfólio com descrição dos projetos desenvolvidos durante minha formação e trajetória profissional
+# Portfólio com projetos desenvolvidos durante minha formação 
 
 ## Curso: Sistemas de Informação - Instituição: Universidade Anhanguera Unopar 
 
